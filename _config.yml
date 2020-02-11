@@ -18,9 +18,9 @@ email: 'omer@hanetz.com'
 description: "I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect."
 baseurl: "https://ohanetz.github.io/hanetz.com" # the subpath of your site, e.g. /blog
 url: "http://hanetz.com" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'hanetz'
+twitter_username: 'ohanetz'
 github_username: 'ohanetz'
-medium_username: 'blog.hanetz.com'
+medium_username: 'http://blog.hanetz.com'
 
 # Build settings
 markdown: kramdown
@@ -92,7 +92,7 @@ pagination:
 footer_text: '© 2020 Omer Hanetz'
 admin_name: 'Omer Hanetz'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true

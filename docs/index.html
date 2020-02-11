@@ -11,11 +11,11 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="Hi, my name is Omer Hanetz - I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect." href="http://localhost:4000/feed.xml">
-  <link rel="alternate" type="application/atom+xml" title="Hi, my name is Omer Hanetz - I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect." href="http://localhost:4000/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="Hi, my name is Omer Hanetz - I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect." href="http://hanetz.com/feed.xml">
+  <link rel="alternate" type="application/atom+xml" title="Hi, my name is Omer Hanetz - I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect." href="http://hanetz.com/atom.xml">
 
   <!-- Favicons -->
-  <link rel="icon" href="http://localhost:4000/img/favicon.png">
+  <link rel="icon" href="http://hanetz.com/img/favicon.png">
 
   <!-- Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700|Merriweather:400,300,300italic,400italic,700' rel='stylesheet' type='text/css'>
@@ -82,19 +82,58 @@
             
 
             
+            <a data-toggle="modal" data-target="#contact"> Why not get in touch?</a>
+
+            <div id="contact" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-md">
+
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+
+        <form class="form-horizontal form-contact clearfix" action="https://formspree.io/your-email@gmail.com" method="POST">
+
+          <div class="form-group">
+            <label class="message-label">Dear Jami,</label>
+            <textarea class="message form-control" rows="8" name="body" placeholder="Type your message..."></textarea>
+          </div>
+
+          <div class="form-group">
+            <label for="name">Sincerely,</label>
+            <input type="name" class="name form-control" placeholder="Your Name">
+            <label for="email" class="sr-only">Email</label>
+            <input type="email" class="email form-control" name="_replyto" placeholder="Your Email">
+          </div>
+
+          <input type="submit" class="btn btn-default" style="float-right" value="Send">
+
+        </form>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+            
           </p>
           
 
           <div class="hero-buttons">
 
             
-              <a href="https://twitter.com/hanetz"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
+              <a href="https://twitter.com/ohanetz"><button class="btn btn-default btn-lg"><i class="fa fa-twitter fa-lg"></i>Twitter</button></a>
             
             
               <a href="https://github.com/ohanetz"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
             
             
-              <a href="blog.hanetz.com"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
+              <a href="http://blog.hanetz.com"><button class="btn btn-default btn-lg"><i class="fa fa-medium fa-lg"></i>Medium</button></a>
             
 
           </div>
@@ -372,7 +411,7 @@
         <div class="row">
 
           <div class="col-xs-12 col-md-2 col-md-offset-1">
-            <p class="text-muted text-left "><a href="http://localhost:4000">© 2020 Omer Hanetz</a></p>
+            <p class="text-muted text-left "><a href="http://hanetz.com">© 2020 Omer Hanetz</a></p>
           </div>
 
           <div class="col-xs-12 col-md-6 col-md-offset-2">
@@ -389,8 +428,8 @@
     <!-- JavaScript -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script src="http://localhost:4000/js/wow.min.js"></script>
-    <script src="http://localhost:4000/js/app.js"></script>
+    <script src="http://hanetz.com/js/wow.min.js"></script>
+    <script src="http://hanetz.com/js/app.js"></script>
 
 
     <script>
