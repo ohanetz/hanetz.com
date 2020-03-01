@@ -18,9 +18,11 @@ email: 'omer@hanetz.com'
 description: "I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect."
 baseurl: "https://ohanetz.github.io/hanetz.com" # the subpath of your site, e.g. /blog
 url: "http://hanetz.com" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'hanetz'
 twitter_username: 'ohanetz'
 github_username: 'ohanetz'
 medium_username: 'http://blog.hanetz.com'
+so_username: '3306912/hanetz'
 
 # Build settings
 markdown: kramdown
