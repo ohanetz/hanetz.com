@@ -25,7 +25,7 @@ data-readmore="Read post"
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
 
-<!--
+{% comment %}
             {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
@@ -39,7 +39,9 @@ data-offset="-100"></div>
             {% endfor %}
 
             {% include pagination.html %}
--->
+
+{% endcomment %}
+
           </div>
         </div>
       </div>
