@@ -24,6 +24,8 @@ github_username: 'ohanetz'
 medium_username: 'http://blog.hanetz.com'
 so_username: '3306912/hanetz'
 
+section_title: 'Recent Posts'
+
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
