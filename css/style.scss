@@ -26,16 +26,6 @@ $secondary: #FF7B7B;
 	1.0 Defaults
 --------------------------------------------------------------*/
 
-.i-navbar {
-  padding: 0;
-}
-
-.btn-navbar {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding: 6px 12px;
-}
-
 @media (min-width: 1200px) {
   .container {
     width: 1200px;
@@ -446,3 +436,20 @@ pre {
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
+
+
+/*--------------------------------------------------------------
+        7.0 Omer
+--------------------------------------------------------------*/
+
+.i-navbar {
+  padding: 0;
+}
+
+.btn-navbar {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  padding: 6px 12px;
+}
+
