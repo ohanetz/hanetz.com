@@ -6452,3 +6452,11 @@ pre > code {
     box-shadow: 0 1px 0 #b0c5d2; }
   .btn-navbar i {
     padding-right: 0; }
+
+.img-omer {
+  border-radius: 50px;
+  max-height: 160px;
+  width: auto; }
+
+.td {
+  padding-right: 1em; }

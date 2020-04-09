@@ -14,9 +14,16 @@
 
           {% if site.description != '' or site.enable_contact == true %}
             {% if site.description != '' %}
-              <p class="text-center">
-              {{site.description}}
-              </p>
+              <table><tbody><tr>
+              <td>
+                <img src="img/omer.JPG" class="img-omer">
+              </td>
+              <td>
+                <p class="text-center">
+                {{site.description}}
+                </p>
+              </td>
+              </tr></tbody></table>
             {% endif %}
 
             {% if site.enable_contact == true %}
