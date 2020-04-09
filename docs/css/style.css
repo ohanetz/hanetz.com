@@ -5902,7 +5902,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  margin: 10em 0 5em 0; }
+  margin: 8em 0 5em 0; }
   @media only screen and (max-width: 768px) {
     .hero-container {
       margin: 5em 0 5em 0; } }
