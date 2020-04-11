@@ -95,7 +95,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2020 Omer Hanetz'
 admin_name: 'Omer Hanetz'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+google_analytics: "UA-163335132-1" # Update with your own tracking ID
 enable_contact: true
 
 #### Phantom Navigation menu
