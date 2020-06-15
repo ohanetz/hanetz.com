@@ -68,10 +68,6 @@
                 </li>
               
                 <li>
-                  <a href="/blog">Blog</a>
-                </li>
-              
-                <li>
                   <a href="/#portfolio">Recent Posts</a>
                 </li>
               
@@ -203,6 +199,7 @@
 
             <div class="break"></div>
 
+<!--
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@hawkseye"
 data-maxcols="2" 
@@ -211,6 +208,11 @@ data-poststyle="inline"
 data-readmore="Read post" 
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
+-->
+<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@hawkseye","postsPerLine":2,"limit":10,"picture":"big","fields":["description","claps","likes","publishAt"],"ratio":"landscape"}})</script>
+
 
 
 

@@ -102,5 +102,5 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/blog', text: 'Blog' }
+#  - { url: '/blog', text: 'Blog' }
   - { url: '/#portfolio', text: 'Recent Posts' }
