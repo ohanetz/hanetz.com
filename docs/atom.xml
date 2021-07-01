@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Omer Hanetz</title>
- <link href="http://hanetz.com/atom.xml" rel="self"/>
- <link href="http://hanetz.com/"/>
- <updated>2020-06-15T19:52:27+03:00</updated>
- <id>http://hanetz.com</id>
+ <link href="https://hanetz.com/atom.xml" rel="self"/>
+ <link href="https://hanetz.com/"/>
+ <updated>2021-07-02T01:13:47+03:00</updated>
+ <id>https://hanetz.com</id>
  <author>
    <name>Omer Hanetz</name>
    <email></email>
@@ -14,36 +14,36 @@
  
  <entry>
    <title>Phantom</title>
-   <link href="http://hanetz.com/development/design/2016/02/20/phantom-jekyll-template.html"/>
+   <link href="https://hanetz.com/development/design/2016/02/20/phantom-jekyll-template.html"/>
    <updated>2016-02-20T23:15:00+02:00</updated>
-   <id>http://hanetz.com/development/design/2016/02/20/phantom-jekyll-template</id>
+   <id>https://hanetz.com/development/design/2016/02/20/phantom-jekyll-template</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Rescue Themes</title>
-   <link href="http://hanetz.com/development/design/2016/02/20/rescue-themes.html"/>
+   <link href="https://hanetz.com/development/design/2016/02/20/rescue-themes.html"/>
    <updated>2016-02-20T17:56:00+02:00</updated>
-   <id>http://hanetz.com/development/design/2016/02/20/rescue-themes</id>
+   <id>https://hanetz.com/development/design/2016/02/20/rescue-themes</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Weathercast</title>
-   <link href="http://hanetz.com/development/2016/02/20/weathercast.html"/>
+   <link href="https://hanetz.com/development/2016/02/20/weathercast.html"/>
    <updated>2016-02-20T17:56:00+02:00</updated>
-   <id>http://hanetz.com/development/2016/02/20/weathercast</id>
+   <id>https://hanetz.com/development/2016/02/20/weathercast</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Bloc Jams Angular</title>
-   <link href="http://hanetz.com/development/2016/02/20/bloc-jams-angular.html"/>
+   <link href="https://hanetz.com/development/2016/02/20/bloc-jams-angular.html"/>
    <updated>2016-02-20T16:15:00+02:00</updated>
-   <id>http://hanetz.com/development/2016/02/20/bloc-jams-angular</id>
+   <id>https://hanetz.com/development/2016/02/20/bloc-jams-angular</id>
    <content type="html">
 </content>
  </entry>
