@@ -3,10 +3,10 @@
   <channel>
     <title>Omer Hanetz</title>
     <description>I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect.</description>
-    <link>https://hanetz.com/</link>
-    <atom:link href="https://hanetz.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jul 2021 03:19:14 +0300</pubDate>
-    <lastBuildDate>Fri, 02 Jul 2021 03:19:14 +0300</lastBuildDate>
+    <link>https://hanetz.net/</link>
+    <atom:link href="https://hanetz.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 02 Jul 2021 10:25:57 +0300</pubDate>
+    <lastBuildDate>Fri, 02 Jul 2021 10:25:57 +0300</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 23:15:00 +0200</pubDate>
-        <link>https://hanetz.com/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">https://hanetz.com/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <link>https://hanetz.net/development/design/2016/02/20/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">https://hanetz.net/development/design/2016/02/20/phantom-jekyll-template.html</guid>
         
         <category>Jekyll</category>
         
@@ -35,8 +35,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 17:56:00 +0200</pubDate>
-        <link>https://hanetz.com/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">https://hanetz.com/development/design/2016/02/20/rescue-themes.html</guid>
+        <link>https://hanetz.net/development/design/2016/02/20/rescue-themes.html</link>
+        <guid isPermaLink="true">https://hanetz.net/development/design/2016/02/20/rescue-themes.html</guid>
         
         <category>WordPress</category>
         
@@ -56,8 +56,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 17:56:00 +0200</pubDate>
-        <link>https://hanetz.com/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">https://hanetz.com/development/2016/02/20/weathercast.html</guid>
+        <link>https://hanetz.net/development/2016/02/20/weathercast.html</link>
+        <guid isPermaLink="true">https://hanetz.net/development/2016/02/20/weathercast.html</guid>
         
         <category>JavaScript</category>
         
@@ -77,8 +77,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 16:15:00 +0200</pubDate>
-        <link>https://hanetz.com/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">https://hanetz.com/development/2016/02/20/bloc-jams-angular.html</guid>
+        <link>https://hanetz.net/development/2016/02/20/bloc-jams-angular.html</link>
+        <guid isPermaLink="true">https://hanetz.net/development/2016/02/20/bloc-jams-angular.html</guid>
         
         <category>JavaScript</category>
         

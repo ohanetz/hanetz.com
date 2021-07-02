@@ -17,7 +17,7 @@ title: "Omer Hanetz"
 email: 'omer@hanetz.com'
 description: "I am writing code ever since I learned how to use a keyboard, and I still think that nothing beats the feeling you get when you see your code runs as you expect."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hanetz.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://hanetz.net" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'hanetz'
 twitter_username: 'ohanetz'
 github_username: 'ohanetz'
